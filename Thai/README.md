@@ -1,4 +1,4 @@
-Yes, the Thai language does have a romanized script equivalent, commonly known as Romanization or transliteration. 
+Thai language has a romanized script equivalent, commonly known as Romanization or transliteration. 
 This is a way of representing Thai words using the Latin (Roman) alphabet.
 
 There are several systems for Romanizing Thai, including:
@@ -16,4 +16,4 @@ RTGS: Krung Thep Maha Nakhon
 	3.	Phonetic Romanization (informal) –
 Many people, especially online or in casual settings, use ad-hoc Romanization based on how words sound to English speakers. It varies widely and isn’t standardized.
 
-Would you like to see a comparison of how a Thai word looks in different Romanization styles?
+This Romanized script equivalent will added to each set of lyrics.
