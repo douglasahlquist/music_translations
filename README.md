@@ -4,7 +4,7 @@
 
 | English | Chinese | Korean | Thai | French| Indonesian | Vietnamese |
 | --- | --- | --- | --- | --- | --- | --- |
-| [As I am] (https://youtu.be/lKw6uqtGFfo?si=oWo1Q3Wuu8plZ1Io) | [这样的我](https://) | [Link 3](https://) | [Link 4](https://) | [Link 5](https://) | [Link 6](https://) | [Link 7](https://) |
+| [As I am] (https://youtu.be/lKw6uqtGFfo?si=oWo1Q3Wuu8plZ1Io) | [这样的我](https://) |  |  |  |  |  |
 | [Be Still] (https://www.youtube.com/watch?v=H7pJb49vVQY) | [安静 正式华语版(简体)] (https://www.youtube.com/watch?v=ZiqrctFxPEg) |  |  |  |  |  |
 | [Best Friends] () | [好朋友] () |  |  | |  |  |
 | [Indescribable] () | [无法形容] | |  |  |  |  |
